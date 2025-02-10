@@ -1,6 +1,6 @@
 package tests;
 
-import pages.LoginPage;  // Upewnij się, że tylko TEN import jest poprawny!
+import pages.LoginPage;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

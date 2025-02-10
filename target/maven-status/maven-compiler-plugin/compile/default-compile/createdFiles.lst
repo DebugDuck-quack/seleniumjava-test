@@ -1,1 +1,6 @@
+pages\CheckboxesPage.class
+pages\DynamicControlsPage.class
+pages\UploadPage.class
+pages\DragAndDropPage.class
 pages\LoginPage.class
+pages\DownloadPage.class

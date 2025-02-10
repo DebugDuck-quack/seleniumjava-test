@@ -10,7 +10,7 @@ import org.testng.annotations.Optional;
 import org.testng.annotations.Parameters;
 
 public class BaseTest {
-    protected WebDriver driver;  // ZMIANA: protected zamiast private!
+    protected WebDriver driver;
 
     @BeforeMethod
     @Parameters({"browser"})

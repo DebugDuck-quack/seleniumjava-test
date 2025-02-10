@@ -1,2 +1,7 @@
-tests\LoginTest.class
+tests\UploadTest.class
+tests\DynamicControlsTest.class
 tests\BaseTest.class
+tests\LoginTest.class
+tests\DragAndDropTest.class
+tests\DownloadTest.class
+tests\CheckboxesTest.class
