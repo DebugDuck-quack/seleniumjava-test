@@ -1,0 +1,9 @@
+target/
+allure-results/
+surefire-reports/
+maven-status/
+.idea/
+*.iml
+*.log
+.cache/
+
